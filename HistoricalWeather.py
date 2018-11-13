@@ -20,7 +20,6 @@ for year in years:
             for ul in ul_list:
                 li_list = ul.select('li')
                 if i != 0:
-                    # file.write(str + '\n')
                     if li_list[0].string:
                         date = str(li_list[0].string.encode('utf-8').decode())
                     if li_list[1].string:
