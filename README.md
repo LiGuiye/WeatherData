@@ -1,3 +1,2 @@
 # WeatherData
 python3爬取天气网神农架历史天气和一周天气预报，并存入postgresql数据库 
-HistoricalWeather_China为新增全国所有城市的历史天气数据爬取
