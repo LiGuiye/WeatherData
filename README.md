@@ -1,2 +1,2 @@
 # WeatherData
-python爬取天气网神农架历史天气，并存入postgresql数据库 
+python3爬取天气网神农架历史天气和一周天气预报，并存入postgresql数据库 
