@@ -1,4 +1,4 @@
 # WeatherData
-python3爬取天气网神农架历史天气和一周天气预报，并存入postgresql数据库 
-HistoricalWeather_China为新增全国所有城市的历史天气数据爬取
+python3爬取天气网神农架历史天气和一周天气预报，并存入postgresql数据库  
+HistoricalWeather_China为新增全国所有城市的历史天气数据爬取  
 weather_result中的json为使用pm2.5in官方提供api获取的2018年11月19日晚八点全国所有气象监测点的各类空气质量参数信息。
